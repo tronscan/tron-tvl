@@ -3,7 +3,7 @@ The JSON schema for Defi project includes: name, logoURI, homepage, MarketCapLin
 
 Follow the steps below to add a new Defi project：
 1) Fork this repo.
-2) change the JSON file `defiProjectList.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING CONTENTS)
+2) change the JSON file `https://tronscan.org/#/data/stats/tvc adding such as: (PLEASE DO NOT REMOVE EXISITING CONTENTS)
 ```
 {
     "name": "SunSwap",
