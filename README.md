@@ -69,19 +69,19 @@ SUN is first integrated platform for stablecoin swap, stake-mining and self-gove
 
 ##### Token address and ticker if any:
 TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S
-
+TBi2hsA67cgtqoHZ6mWo4U2auBa16g4RB4
 ##### Pool addresses:
 TKcEU8ekq2ZoFzLSGFYCUY6aocJBX9X31b, TAkrcKsS5FW9f3ZfzvWy6Zvsz9uEjUxPoV.
-
-##### Category (Yield/DEX/Lending/Minting/Assets/Insurance/Options/Indexes/Staking) *Please choose only one:
+TBi2hsA67cgtqoHZ6mWo4U2auBa16g4RB4
+##### Category (Yield/DEX/Lending/Minting/Assets/Insurance/Options/Indexes/Staking) *Please choose only one:Assets
 DEX
 
 ##### Oracle used (WINkLink/Chainlink/Band/API3/TWAP or any other that you are using):
 WINkLink
 
-##### forkedFrom (Does your project originate from another project):
+##### forkedFrom (Does your project originate from another project):yes
 
 ##### methodology (what is being counted as tvl, how is tvl being calculated):
-All tokens staked in the pool MINUS borrowed assets are counted as TVL. Borrowed assets are not included in the TVL.
+All tokens staked in the pool MINUS borrowed assets are counted as TVL. Borrowed assets are included in the TVL.
 
 ```
