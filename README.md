@@ -13,8 +13,8 @@ Follow the steps below to add a new Defi project：
     "url": "https://apilist.tronscan.org/api/tvl",
     "category": "DEX",
     "poolAddresses": [
-        "TKcEU8ekq2ZoFzLSGFYCUY6aocJBX9X31b",
-        "TAkrcKsS5FW9f3ZfzvWy6Zvsz9uEjUxPoV"
+        "TTEzrYmea37HBrAccGqkMm853KAiTZJQtL",
+        "TYj71BXy8csT7sfVUzQ9gAj81Ts3NNTjEi"
     ]
 }
 ```
