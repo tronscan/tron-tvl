@@ -1,3 +1,12 @@
-[
-    
-]
+{
+    "name": "SSHIB",
+    "logoURI": "https://dd.dexscreener.com/ds-data/tokens/tron/tdx1u3jadabse8xtqzgmdyfry5pkfnoqhd.png?key=2764ab",
+    "homepage": "http://sunshib.space/",
+    "MarketCapLink": "https://coinmarketcap.com/dexscan/id/tron/TA6P86Y9FFg1bTyXhqmBsBgkXp6msecWaw/",
+    "url": "https://apilist.tronscan.org/api/tvl",
+    "category": "MEME",
+    "poolAddresses": [
+        "TDx1u3jAdABse8XTQzgMdYfRY5PKFnoqHd",
+        "TA6P86Y9FFg1bTyXhqmBsBgkXp6msecWaw"
+    ]
+}
